@@ -1,0 +1,5 @@
+com/example/review/model/Review.class
+com/example/review/service/ReviewService.class
+com/example/review/ReviewApplication.class
+com/example/review/repository/ReviewRepository.class
+com/example/review/controller/ReviewController.class
