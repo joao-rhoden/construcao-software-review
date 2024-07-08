@@ -3,7 +3,7 @@ on: [push]
 
 jobs:
     deploy:
-        name: Deploy to AWSs
+        name: Deploy to AWS
         runs-on: ubuntu-latest
         steps:
             - name: Configure AWS credentials
